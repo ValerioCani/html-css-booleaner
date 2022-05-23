@@ -1,6 +1,7 @@
-body{
+body{   
     margin: auto;
     width: 65%;
+    font-weight: 500;
 }
 
 header {
@@ -15,6 +16,8 @@ header {
     bottom: 0px;
 }
 
+                    /* fine header */
+    
 h1{
     font-size: 50px;
 }
@@ -36,4 +39,22 @@ h1{
 }
 .evidenziatore{
     background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+#primariga{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+tr:nth-child(even){
+    background-color: #9adce7;
+}
+
+.row1-2{
+    width: 20%;
 }
