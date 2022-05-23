@@ -18,10 +18,22 @@ header {
 h1{
     font-size: 50px;
 }
+
+#autore{
+    color:rgb(160, 160, 160);
+}
+
 .sottotitolo1{
     color: #4ea0ff;
 }
 
 .sottotitolo2{
     font-size: smaller;
+}
+
+.didascalia{
+    font-size: small;
+}
+.evidenziatore{
+    background-color: yellow;
 }
