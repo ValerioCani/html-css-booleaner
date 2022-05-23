@@ -1,13 +1,27 @@
+body{
+    margin: auto;
+    width: 65%;
+}
+
 header {
     position: relative;
     height: 175px;
-    background-color: #4ea0ff;
-    background-image: url('../img/pattern.png');
-    background-repeat: repeat-x;
+    background: #4ea0ff url('../img/pattern.png') repeat-x;
 }
 
 .logo{
     height: 85px;
     position: absolute;
     bottom: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+.sottotitolo1{
+    color: #4ea0ff;
+}
+
+.sottotitolo2{
+    font-size: smaller;
 }
