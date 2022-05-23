@@ -66,11 +66,11 @@ tr:nth-child(even){
 h4{
     color:rgb(160, 160, 160); ;
 }
- .interessi{
+
+.interessi{
     position: relative;
     height: 208px;
     width: 312px;
-
 }
 
 .interessi img{
