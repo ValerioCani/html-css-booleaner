@@ -16,7 +16,7 @@ header {
     bottom: 0px;
 }
 
-                    /* fine header */
+                /* fine header e inizio stilizzazione main */
     
 h1{
     font-size: 50px;
@@ -41,6 +41,8 @@ h1{
     background-color: yellow;
 }
 
+                /* inizio stile tabella */
+
 table {
     border-collapse: collapse;
     width: 100%;
@@ -57,4 +59,29 @@ tr:nth-child(even){
 
 .row1-2{
     width: 20%;
+}
+
+/* fine stile tabella e inizio stile e posizione immagini */
+
+h4{
+    color:rgb(160, 160, 160); ;
+}
+ .interessi{
+    position: relative;
+    height: 208px;
+    width: 312px;
+
+}
+
+.interessi img{
+    position: absolute;
+}
+
+.interessi p{
+  position: relative;
+  top: 3px;
+  left: 10px;
+  color: white;
+  font-weight: 600; 
+  font-size: 30px; 
 }
