@@ -1,4 +1,4 @@
-body{   
+main{   
     margin: auto;
     width: 65%;
    
@@ -11,9 +11,11 @@ header {
 }
 
 .logo{
+
     height: 85px;
     position: absolute;
     bottom: 0px;
+    left: 17.5%;
 }
 
                 /* fine header e inizio stilizzazione main */
